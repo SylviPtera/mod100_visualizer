@@ -1,0 +1,1224 @@
+1: 
+venusaur | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png
+electrode | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png
+unown | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201.png
+delcatty | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png
+kricketune | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png
+samurott | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/503.png
+klinklang | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/601.png
+hawlucha | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/701.png
+magearna | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/801.png
+ursaluna | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/901.png
+wo-chien | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1001.png
+
+2: 
+venusaur | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png
+exeggutor | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png
+wobbuffet | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png
+sableye | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png
+kricketune | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png
+samurott | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/503.png
+eelektross | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/604.png
+dedenne | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/702.png
+marshadow | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/802.png
+basculegion | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/902.png
+chien-pao | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1002.png
+
+3: 
+venusaur | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png
+exeggutor | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png
+farigiraf | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/981.png
+mawile | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png
+luxray | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png
+samurott | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/503.png
+eelektross | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/604.png
+carbink | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/703.png
+naganadel | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/804.png
+sneasler | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/903.png
+ting-lu | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1003.png
+
+4: 
+charizard | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png
+marowak | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png
+forretress | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png
+aggron | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png
+luxray | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png
+watchog | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/505.png
+eelektross | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/604.png
+goodra | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/706.png
+naganadel | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/804.png
+overqwil | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/904.png
+chi-yu | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1004.png
+
+5: 
+charizard | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png
+marowak | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png
+forretress | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png
+aggron | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png
+luxray | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png
+watchog | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/505.png
+beheeyem | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/606.png
+goodra | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/706.png
+stakataka | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/805.png
+enamorus | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/905.png
+roaring-moon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1005.png
+
+6: 
+charizard | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png
+hitmonlee | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png
+dudunsparce | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/982.png
+aggron | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png
+roserade | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/407.png
+stoutland | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/508.png
+beheeyem | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/606.png
+goodra | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/706.png
+blacephalon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/806.png
+meowscarada | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/908.png
+iron-valiant | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1006.png
+
+7: 
+blastoise | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png
+hitmonchan | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png
+gliscor | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/472.png
+medicham | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png
+roserade | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/407.png
+stoutland | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/508.png
+chandelure | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/609.png
+klefki | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/707.png
+zeraora | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/807.png
+meowscarada | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/908.png
+koraidon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1007.png
+
+8: 
+blastoise | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png
+lickilicky | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/463.png
+steelix | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png
+medicham | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png
+rampardos | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/409.png
+stoutland | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/508.png
+chandelure | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/609.png
+trevenant | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/709.png
+meltan | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/808.png
+meowscarada | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/908.png
+miraidon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1008.png
+
+9: 
+blastoise | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png
+weezing | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png
+granbull | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png
+manectric | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png
+rampardos | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/409.png
+liepard | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/510.png
+chandelure | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/609.png
+trevenant | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/709.png
+melmetal | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/809.png
+skeledirge | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/911.png
+walking-wake | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1009.png
+
+10: 
+butterfree | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png
+weezing | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png
+granbull | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png
+manectric | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png
+bastiodon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/411.png
+liepard | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/510.png
+haxorus | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/612.png
+gourgeist | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/711.png
+rillaboom | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/812.png
+skeledirge | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/911.png
+iron-leaves | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1010.png
+
+11: 
+butterfree | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png
+rhyperior | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/464.png
+overqwil | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/904.png
+plusle | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png
+bastiodon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/411.png
+simisage | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/512.png
+haxorus | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/612.png
+gourgeist | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/711.png
+rillaboom | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/812.png
+skeledirge | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/911.png
+dipplin | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1011.png
+
+12: 
+butterfree | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png
+rhyperior | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/464.png
+scizor | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png
+minun | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png
+burmy | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412.png
+simisage | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/512.png
+haxorus | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/612.png
+avalugg | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/713.png
+rillaboom | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/812.png
+quaquaval | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/914.png
+sinistcha | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1013.png
+
+13: 
+beedrill | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png
+blissey | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png
+shuckle | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png
+volbeat | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png
+wormadam | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413.png
+simisear | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/514.png
+beartic | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/614.png
+avalugg | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/713.png
+cinderace | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/815.png
+quaquaval | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/914.png
+sinistcha | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1013.png
+
+14: 
+beedrill | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png
+tangrowth | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png
+heracross | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png
+illumise | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png
+mothim | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414.png
+simisear | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/514.png
+beartic | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/614.png
+noivern | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/715.png
+cinderace | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/815.png
+quaquaval | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/914.png
+okidogi | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1014.png
+
+15: 
+beedrill | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png
+kangaskhan | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png
+sneasel | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png
+roserade | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/407.png
+vespiquen | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/416.png
+simipour | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/516.png
+cryogonal | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/615.png
+noivern | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/715.png
+cinderace | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/815.png
+oinkologne | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/916.png
+munkidori | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1015.png
+
+16: 
+pidgeot | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png
+kingdra | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png
+ursaluna | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/901.png
+swalot | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png
+vespiquen | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/416.png
+simipour | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/516.png
+accelgor | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/617.png
+xerneas | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/716.png
+inteleon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/818.png
+oinkologne | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/916.png
+fezandipiti | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1016.png
+
+17: 
+pidgeot | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png
+kingdra | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png
+ursaluna | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/901.png
+swalot | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png
+pachirisu | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/417.png
+musharna | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png
+accelgor | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/617.png
+yveltal | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/717.png
+inteleon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/818.png
+spidops | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/918.png
+ogerpon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1017.png
+
+18: 
+pidgeot | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png
+seaking | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png
+magcargo | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png
+sharpedo | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png
+floatzel | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png
+musharna | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png
+stunfisk | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/618.png
+zygarde | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/718.png
+inteleon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/818.png
+spidops | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/918.png
+archaludon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1018.png
+
+19: 
+raticate | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png
+seaking | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png
+magcargo | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png
+sharpedo | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png
+floatzel | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png
+unfezant | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/521.png
+mienshao | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/620.png
+diancie | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/719.png
+greedent | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/820.png
+lokix | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/920.png
+hydrapple | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1019.png
+
+20: 
+raticate | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png
+starmie | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png
+mamoswine | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png
+wailord | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png
+cherrim | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png
+unfezant | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/521.png
+mienshao | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/620.png
+hoopa | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/720.png
+greedent | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/820.png
+lokix | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/920.png
+gouging-fire | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1020.png
+
+21: 
+fearow | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png
+starmie | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png
+mamoswine | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png
+wailord | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png
+cherrim | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png
+unfezant | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/521.png
+druddigon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/621.png
+volcanion | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/721.png
+corviknight | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/823.png
+pawmot | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/923.png
+raging-bolt | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1021.png
+
+22: 
+fearow | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png
+mr-rime | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/866.png
+cursola | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/864.png
+camerupt | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png
+gastrodon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png
+zebstrika | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/523.png
+golurk | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/623.png
+decidueye | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/724.png
+corviknight | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/823.png
+pawmot | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/923.png
+iron-boulder | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1022.png
+
+23: 
+arbok | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png
+scyther | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png
+octillery | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png
+camerupt | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png
+gastrodon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png
+zebstrika | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/523.png
+golurk | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/623.png
+decidueye | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/724.png
+corviknight | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/823.png
+pawmot | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/923.png
+iron-crown | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1023.png
+
+24: 
+arbok | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png
+jynx | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png
+octillery | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png
+torkoal | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png
+ambipom | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/424.png
+gigalith | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/526.png
+kingambit | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/983.png
+decidueye | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/724.png
+orbeetle | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/826.png
+maushold | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/925.png
+terapagos | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1024.png
+
+25: 
+raichu | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png
+electivire | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png
+delibird | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png
+grumpig | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/326.png
+drifblim | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/426.png
+gigalith | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/526.png
+kingambit | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/983.png
+incineroar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/727.png
+orbeetle | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/826.png
+maushold | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/925.png
+pecharunt | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1025.png
+
+26: 
+raichu | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png
+magmortar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png
+mantine | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png
+grumpig | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/326.png
+drifblim | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/426.png
+gigalith | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/526.png
+bouffalant | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/626.png
+incineroar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/727.png
+orbeetle | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/826.png
+dachsbun | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/927.png
+
+27: 
+sandslash | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png
+pinsir | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png
+skarmory | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png
+spinda | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png
+lopunny | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png
+swoobat | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/528.png
+braviary | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/628.png
+incineroar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/727.png
+thievul | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/828.png
+dachsbun | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/927.png
+
+28: 
+sandslash | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png
+tauros | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png
+houndoom | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png
+flygon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png
+lopunny | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png
+swoobat | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/528.png
+braviary | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/628.png
+primarina | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/730.png
+thievul | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/828.png
+arboliva | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/930.png
+
+29: 
+nidoqueen | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png
+gyarados | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png
+houndoom | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png
+flygon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png
+mismagius | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/429.png
+excadrill | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/530.png
+mandibuzz | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/630.png
+primarina | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/730.png
+eldegoss | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/830.png
+arboliva | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/930.png
+
+30: 
+nidoqueen | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png
+gyarados | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png
+kingdra | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png
+flygon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png
+honchkrow | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/430.png
+excadrill | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/530.png
+mandibuzz | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/630.png
+primarina | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/730.png
+eldegoss | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/830.png
+arboliva | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/930.png
+
+31: 
+nidoqueen | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png
+lapras | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png
+donphan | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png
+cacturne | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/332.png
+purugly | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png
+audino | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/531.png
+heatmor | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/631.png
+toucannon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/733.png
+dubwool | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/832.png
+squawkabilly | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/931.png
+
+32: 
+nidoking | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png
+ditto | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png
+donphan | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png
+cacturne | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/332.png
+purugly | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png
+conkeldurr | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/534.png
+durant | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/632.png
+toucannon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/733.png
+dubwool | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/832.png
+garganacl | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/934.png
+
+33: 
+nidoking | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png
+eevee | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png
+porygon-z | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png
+altaria | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png
+chimecho | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png
+conkeldurr | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/534.png
+hydreigon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/635.png
+toucannon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/733.png
+drednaw | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/834.png
+garganacl | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/934.png
+
+34: 
+nidoking | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png
+vaporeon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png
+wyrdeer | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/899.png
+altaria | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png
+skuntank | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png
+conkeldurr | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/534.png
+hydreigon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/635.png
+gumshoos | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/735.png
+drednaw | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/834.png
+garganacl | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/934.png
+
+35: 
+clefable | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png
+jolteon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png
+smeargle | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png
+zangoose | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/335.png
+skuntank | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png
+seismitoad | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/537.png
+hydreigon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/635.png
+gumshoos | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/735.png
+boltund | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/836.png
+charcadet | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/935.png
+
+36: 
+clefable | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png
+flareon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png
+tyrogue | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png
+seviper | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png
+bronzong | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png
+seismitoad | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/537.png
+volcarona | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/637.png
+vikavolt | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/738.png
+boltund | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/836.png
+armarouge | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/936.png
+
+37: 
+ninetales | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png
+porygon-z | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png
+hitmontop | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png
+lunatone | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png
+bronzong | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png
+seismitoad | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/537.png
+volcarona | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/637.png
+vikavolt | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/738.png
+coalossal | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/839.png
+ceruledge | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/937.png
+
+38: 
+ninetales | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png
+omastar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png
+jynx | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png
+solrock | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/338.png
+sudowoodo | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png
+throh | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/538.png
+cobalion | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/638.png
+vikavolt | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/738.png
+coalossal | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/839.png
+bellibolt | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/939.png
+
+39: 
+wigglytuff | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png
+omastar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png
+electivire | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png
+whiscash | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png
+mr-rime | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/866.png
+sawk | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/539.png
+terrakion | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/639.png
+crabominable | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/740.png
+coalossal | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/839.png
+bellibolt | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/939.png
+
+40: 
+wigglytuff | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png
+kabutops | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png
+magmortar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png
+whiscash | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png
+blissey | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png
+leavanny | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/542.png
+virizion | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/640.png
+crabominable | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/740.png
+applin | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/840.png
+kilowattrel | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/941.png
+
+41: 
+crobat | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png
+kabutops | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png
+miltank | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png
+crawdaunt | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png
+chatot | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png
+leavanny | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/542.png
+tornadus | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/641.png
+oricorio | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/741.png
+flapple | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/841.png
+kilowattrel | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/941.png
+
+42: 
+crobat | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png
+aerodactyl | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png
+blissey | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png
+crawdaunt | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png
+spiritomb | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/442.png
+leavanny | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/542.png
+thundurus | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png
+ribombee | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/743.png
+appletun | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/842.png
+mabosstiff | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/943.png
+
+43: 
+gloom | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png
+snorlax | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png
+raikou | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png
+claydol | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png
+garchomp | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png
+scolipede | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/545.png
+reshiram | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png
+ribombee | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/743.png
+sandaconda | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/844.png
+mabosstiff | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/943.png
+
+44: 
+gloom | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png
+articuno | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png
+entei | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png
+claydol | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png
+garchomp | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png
+scolipede | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/545.png
+zekrom | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png
+lycanroc | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/745.png
+sandaconda | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/844.png
+grafaiai | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/945.png
+
+45: 
+gloom | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png
+zapdos | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png
+suicune | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png
+cradily | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/346.png
+garchomp | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png
+scolipede | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/545.png
+landorus | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/645.png
+lycanroc | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/745.png
+cramorant | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/845.png
+grafaiai | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/945.png
+
+46: 
+parasect | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png
+moltres | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png
+tyranitar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png
+cradily | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/346.png
+snorlax | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png
+whimsicott | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/547.png
+kyurem | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/646.png
+wishiwashi | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/746.png
+barraskewda | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/847.png
+brambleghast | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/947.png
+
+47: 
+parasect | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png
+dragonite | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png
+tyranitar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png
+armaldo | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/348.png
+lucario | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png
+whimsicott | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/547.png
+keldeo | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/647.png
+toxapex | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/748.png
+barraskewda | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/847.png
+brambleghast | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/947.png
+
+48: 
+venomoth | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png
+dragonite | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png
+tyranitar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png
+armaldo | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/348.png
+lucario | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png
+lilligant | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/549.png
+meloetta | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/648.png
+toxapex | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/748.png
+toxtricity | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/849.png
+toedscruel | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/949.png
+
+49: 
+venomoth | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png
+dragonite | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png
+lugia | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png
+milotic | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png
+hippowdon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/450.png
+lilligant | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/549.png
+genesect | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649.png
+mudsdale | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/750.png
+toxtricity | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/849.png
+toedscruel | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/949.png
+
+50: 
+dugtrio | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png
+mewtwo | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png
+ho-oh | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png
+milotic | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png
+hippowdon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/450.png
+basculegion | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/902.png
+chesnaught | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/652.png
+mudsdale | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/750.png
+centiskorch | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/851.png
+klawf | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/950.png
+
+51: 
+dugtrio | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png
+mew | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png
+celebi | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png
+castform | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png
+drapion | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/452.png
+krookodile | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/553.png
+chesnaught | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/652.png
+araquanid | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/752.png
+centiskorch | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/851.png
+scovillain | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/952.png
+
+52: 
+meowth | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png
+meganium | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png
+sceptile | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png
+kecleon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png
+drapion | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/452.png
+krookodile | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/553.png
+chesnaught | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/652.png
+araquanid | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/752.png
+grapploct | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/853.png
+scovillain | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/952.png
+
+53: 
+persian | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png
+meganium | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png
+sceptile | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png
+banette | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png
+toxicroak | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png
+krookodile | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/553.png
+delphox | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/655.png
+lurantis | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/754.png
+grapploct | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/853.png
+rabsca | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/954.png
+
+54: 
+golduck | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png
+meganium | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png
+sceptile | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png
+banette | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png
+toxicroak | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png
+darmanitan | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/555.png
+delphox | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/655.png
+lurantis | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/754.png
+polteageist | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/855.png
+rabsca | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/954.png
+
+55: 
+golduck | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png
+typhlosion | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png
+blaziken | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png
+dusknoir | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png
+carnivine | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/455.png
+darmanitan | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/555.png
+delphox | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/655.png
+shiinotic | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/756.png
+polteageist | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/855.png
+espathra | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/956.png
+
+56: 
+annihilape | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/979.png
+typhlosion | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png
+blaziken | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png
+dusknoir | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png
+lumineon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png
+maractus | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png
+greninja | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/658.png
+shiinotic | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/756.png
+hatterene | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/858.png
+espathra | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/956.png
+
+57: 
+annihilape | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/979.png
+typhlosion | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png
+blaziken | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png
+tropius | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png
+lumineon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png
+crustle | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/558.png
+greninja | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/658.png
+salazzle | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/758.png
+hatterene | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/858.png
+tinkaton | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/959.png
+
+58: 
+arcanine | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png
+feraligatr | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png
+swampert | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png
+chimecho | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png
+mantine | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png
+crustle | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/558.png
+greninja | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/658.png
+salazzle | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/758.png
+hatterene | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/858.png
+tinkaton | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/959.png
+
+59: 
+arcanine | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png
+feraligatr | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png
+swampert | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png
+absol | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png
+abomasnow | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png
+scrafty | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/560.png
+diggersby | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/660.png
+bewear | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/760.png
+grimmsnarl | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/861.png
+tinkaton | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/959.png
+
+60: 
+poliwhirl | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png
+feraligatr | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png
+swampert | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png
+wobbuffet | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png
+abomasnow | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png
+scrafty | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/560.png
+diggersby | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/660.png
+bewear | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/760.png
+grimmsnarl | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/861.png
+wugtrio | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/961.png
+
+61: 
+poliwhirl | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png
+furret | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png
+mightyena | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png
+snorunt | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png
+weavile | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/461.png
+sigilyph | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/561.png
+talonflame | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/663.png
+tsareena | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/763.png
+grimmsnarl | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/861.png
+wugtrio | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/961.png
+
+62: 
+poliwhirl | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png
+furret | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png
+mightyena | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png
+glalie | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png
+magnezone | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png
+yamask | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/562.png
+talonflame | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/663.png
+tsareena | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/763.png
+obstagoon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/862.png
+bombirdier | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/962.png
+
+63: 
+alakazam | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png
+noctowl | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png
+obstagoon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/862.png
+walrein | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/365.png
+lickilicky | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/463.png
+cofagrigus | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/563.png
+talonflame | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/663.png
+tsareena | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/763.png
+perrserker | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/863.png
+palafin | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/964.png
+
+64: 
+alakazam | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png
+noctowl | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png
+obstagoon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/862.png
+walrein | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/365.png
+rhyperior | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/464.png
+carracosta | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/565.png
+vivillon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666.png
+comfey | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/764.png
+cursola | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/864.png
+palafin | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/964.png
+
+65: 
+alakazam | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png
+ledian | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png
+wurmple | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png
+walrein | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/365.png
+tangrowth | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png
+carracosta | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/565.png
+vivillon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666.png
+oranguru | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/765.png
+sirfetchd | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/865.png
+revavroom | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/966.png
+
+66: 
+machamp | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png
+ledian | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png
+silcoon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/266.png
+clamperl | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png
+electivire | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png
+archeops | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/567.png
+vivillon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666.png
+passimian | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/766.png
+mr-rime | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/866.png
+revavroom | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/966.png
+
+67: 
+machamp | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png
+ariados | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png
+beautifly | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png
+huntail | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/367.png
+magmortar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png
+archeops | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/567.png
+pyroar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/668.png
+golisopod | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/768.png
+runerigus | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/867.png
+cyclizar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/967.png
+
+68: 
+machamp | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png
+ariados | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png
+cascoon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/268.png
+gorebyss | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png
+togekiss | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/468.png
+garbodor | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/569.png
+pyroar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/668.png
+golisopod | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/768.png
+alcremie | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/869.png
+orthworm | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/968.png
+
+69: 
+victreebel | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png
+crobat | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png
+dustox | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/269.png
+relicanth | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png
+yanmega | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/469.png
+garbodor | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/569.png
+florges | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671.png
+palossand | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/770.png
+alcremie | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/869.png
+glimmora | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/970.png
+
+70: 
+victreebel | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png
+lanturn | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png
+ludicolo | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png
+luvdisc | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png
+leafeon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/470.png
+zoroark | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/571.png
+florges | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671.png
+palossand | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/770.png
+falinks | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/870.png
+glimmora | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/970.png
+
+71: 
+victreebel | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png
+lanturn | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png
+ludicolo | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png
+salamence | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png
+glaceon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png
+zoroark | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/571.png
+florges | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671.png
+pyukumuku | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/771.png
+pincurchin | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/871.png
+houndstone | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/972.png
+
+72: 
+tentacruel | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png
+raichu | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png
+ludicolo | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png
+salamence | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png
+gliscor | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/472.png
+cinccino | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/573.png
+gogoat | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/673.png
+silvally | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773.png
+frosmoth | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/873.png
+houndstone | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/972.png
+
+73: 
+tentacruel | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png
+clefable | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png
+shiftry | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png
+salamence | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png
+mamoswine | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png
+cinccino | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/573.png
+gogoat | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/673.png
+silvally | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773.png
+frosmoth | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/873.png
+flamigo | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/973.png
+
+74: 
+golem | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png
+wigglytuff | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png
+shiftry | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png
+metagross | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png
+porygon-z | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png
+gothitelle | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/576.png
+pangoro | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/675.png
+minior | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774.png
+stonjourner | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/874.png
+cetitan | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/975.png
+
+75: 
+golem | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png
+togekiss | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/468.png
+shiftry | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png
+metagross | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png
+kirlia | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png
+gothitelle | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/576.png
+pangoro | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/675.png
+komala | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/775.png
+eiscue | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/875.png
+cetitan | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/975.png
+
+76: 
+golem | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png
+togekiss | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/468.png
+swellow | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png
+metagross | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png
+probopass | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png
+gothitelle | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/576.png
+furfrou | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/676.png
+turtonator | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/776.png
+indeedee | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/876.png
+veluza | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/976.png
+
+77: 
+rapidash | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png
+xatu | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png
+swellow | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png
+regirock | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png
+dusknoir | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png
+reuniclus | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/579.png
+meowstic | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/678.png
+togedemaru | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/777.png
+morpeko | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/877.png
+dondozo | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/977.png
+
+78: 
+rapidash | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png
+xatu | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png
+pelipper | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png
+regice | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/378.png
+froslass | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png
+reuniclus | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/579.png
+meowstic | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/678.png
+mimikyu | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png
+copperajah | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/879.png
+tatsugiri | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/978.png
+
+79: 
+slowpoke | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png
+ampharos | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png
+pelipper | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png
+registeel | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png
+rotom | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/479.png
+reuniclus | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/579.png
+aegislash | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/681.png
+bruxish | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/779.png
+copperajah | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/879.png
+annihilape | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/979.png
+
+80: 
+slowbro | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png
+ampharos | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png
+kirlia | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png
+latias | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/380.png
+uxie | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/480.png
+swanna | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/581.png
+aegislash | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/681.png
+drampa | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/780.png
+dracozolt | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/880.png
+clodsire | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/980.png
+
+81: 
+magnezone | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png
+ampharos | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png
+kirlia | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png
+latios | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/381.png
+mesprit | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/481.png
+swanna | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/581.png
+aegislash | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/681.png
+dhelmise | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/781.png
+arctozolt | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/881.png
+farigiraf | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/981.png
+
+82: 
+magnezone | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png
+gloom | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png
+kirlia | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png
+kyogre | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png
+azelf | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/482.png
+vanilluxe | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/584.png
+aromatisse | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/683.png
+kommo-o | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/784.png
+dracovish | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/882.png
+dudunsparce | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/982.png
+
+83: 
+sirfetchd | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/865.png
+azumarill | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png
+masquerain | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png
+groudon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png
+dialga | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/483.png
+vanilluxe | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/584.png
+aromatisse | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/683.png
+kommo-o | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/784.png
+arctovish | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/883.png
+kingambit | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/983.png
+
+84: 
+dodrio | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png
+azumarill | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png
+masquerain | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png
+rayquaza | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png
+palkia | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/484.png
+vanilluxe | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/584.png
+slurpuff | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/685.png
+kommo-o | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/784.png
+archaludon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1018.png
+great-tusk | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/984.png
+
+85: 
+dodrio | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png
+sudowoodo | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png
+breloom | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png
+jirachi | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png
+heatran | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/485.png
+sawsbuck | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/586.png
+slurpuff | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/685.png
+tapu-koko | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/785.png
+dragapult | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/887.png
+scream-tail | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/985.png
+
+86: 
+dewgong | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png
+poliwhirl | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png
+breloom | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png
+deoxys | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386.png
+regigigas | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/486.png
+sawsbuck | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/586.png
+malamar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/687.png
+tapu-lele | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/786.png
+dragapult | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/887.png
+brute-bonnet | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/986.png
+
+87: 
+dewgong | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png
+jumpluff | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png
+slaking | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png
+torterra | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png
+giratina | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png
+emolga | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/587.png
+malamar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/687.png
+tapu-bulu | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/787.png
+dragapult | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/887.png
+flutter-mane | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/987.png
+
+88: 
+muk | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png
+jumpluff | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png
+slaking | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png
+torterra | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png
+cresselia | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/488.png
+escavalier | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/589.png
+barbaracle | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/689.png
+tapu-fini | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/788.png
+zacian | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/888.png
+slither-wing | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/988.png
+
+89: 
+muk | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png
+jumpluff | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png
+slaking | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png
+torterra | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png
+manaphy | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/490.png
+escavalier | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/589.png
+barbaracle | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/689.png
+cosmoem | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/790.png
+zamazenta | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/889.png
+sandy-shocks | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/989.png
+
+90: 
+cloyster | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png
+ambipom | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/424.png
+nincada | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/290.png
+infernape | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png
+manaphy | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/490.png
+amoonguss | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/591.png
+dragalge | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/691.png
+cosmoem | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/790.png
+eternatus | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/890.png
+iron-treads | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/990.png
+
+91: 
+cloyster | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png
+sunflora | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png
+ninjask | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png
+infernape | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png
+darkrai | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/491.png
+amoonguss | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/591.png
+dragalge | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/691.png
+cosmoem | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/790.png
+urshifu | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/892.png
+iron-bundle | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/991.png
+
+92: 
+gengar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png
+sunflora | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png
+shedinja | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png
+infernape | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png
+shaymin | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/492.png
+jellicent | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/593.png
+clawitzer | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/693.png
+cosmoem | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/790.png
+urshifu | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/892.png
+iron-hands | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/992.png
+
+93: 
+gengar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png
+yanmega | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/469.png
+exploud | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png
+empoleon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png
+arceus | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png
+jellicent | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/593.png
+clawitzer | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/693.png
+nihilego | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/793.png
+zarude | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/893.png
+iron-jugulis | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/993.png
+
+94: 
+gengar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png
+wooper | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png
+exploud | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png
+empoleon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png
+victini | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/494.png
+alomomola | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/594.png
+heliolisk | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/695.png
+buzzwole | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/794.png
+regieleki | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/894.png
+iron-moth | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/994.png
+
+95: 
+steelix | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png
+quagsire | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png
+exploud | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png
+empoleon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png
+serperior | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/497.png
+galvantula | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/596.png
+heliolisk | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/695.png
+pheromosa | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/795.png
+regidrago | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/895.png
+iron-thorns | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/995.png
+
+96: 
+hypno | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png
+espeon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png
+hariyama | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png
+staraptor | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png
+serperior | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/497.png
+galvantula | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/596.png
+tyrantrum | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/697.png
+xurkitree | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/796.png
+glastrier | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/896.png
+baxcalibur | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/998.png
+
+97: 
+hypno | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png
+umbreon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png
+hariyama | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png
+staraptor | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png
+serperior | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/497.png
+ferrothorn | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/598.png
+tyrantrum | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/697.png
+celesteela | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/797.png
+spectrier | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/897.png
+baxcalibur | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/998.png
+
+98: 
+kingler | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png
+honchkrow | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/430.png
+azumarill | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png
+staraptor | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png
+emboar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/500.png
+ferrothorn | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/598.png
+aurorus | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/699.png
+kartana | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/798.png
+calyrex | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/898.png
+baxcalibur | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/998.png
+
+99: 
+kingler | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png
+slowking | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png
+probopass | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png
+bibarel | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png
+emboar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/500.png
+klinklang | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/601.png
+aurorus | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/699.png
+guzzlord | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/799.png
+wyrdeer | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/899.png
+gholdengo | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1000.png
+
+100: 
+electrode | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png
+mismagius | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/429.png
+delcatty | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png
+bibarel | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png
+emboar | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/500.png
+klinklang | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/601.png
+sylveon | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/700.png
+necrozma | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/800.png
+kleavor | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/900.png
+gholdengo | https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1000.png
