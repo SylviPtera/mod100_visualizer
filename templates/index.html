@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pokédex Grouping</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<h1>Season 13 Teams by Number</h1>
+
+{% for group, pokemon_list in groups.items() %}
+    <h2>{{ "%2d"|format(group) }}</h2>
+
+    <div class="group">
+        {% for pokemon in pokemon_list %}
+            <div class="pokemon">
+                <img src="{{ pokemon["sprite"] }}" alt="{{ pokemon["name"] }}">
+                <p>{{ pokemon["name"] | title }}</p>
+            </div>
+        {% endfor %}
+    </div>
+{% endfor %}
+
+
+</body>
+</html>
