@@ -1,1 +1,2 @@
-flask
+- Go to cmd and install flask:
+pip install flask
